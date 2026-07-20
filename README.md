@@ -1,16 +1,39 @@
-## Hi there 👋
+Olá! 👋 Eu sou a Solange Lima Cavalcante
 
-<!--
-**Solcavalcante2/Solcavalcante2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão da Tecnologia da Informação.
 
-Here are some ideas to get you started:
+💻 Apaixonada por tecnologia e desenvolvimento de software. Estou construindo minha experiência por meio de projetos práticos e estudando constantemente novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que estou aprendendo
+
+* Java
+* Spring Boot
+* HTML5
+* CSS3
+* JavaScript
+* SQL
+* Git e GitHub
+
+📂 Projetos
+
+Talent Match
+
+Sistema de recrutamento e seleção desenvolvido em Java Spring Boot para gerenciamento de candidatos e vagas.
+
+Controle de Vendas e Estoque
+
+Sistema para gerenciamento de produtos, estoque e vendas.
+
+📚 Atualmente estudando
+
+* Desenvolvimento Web
+* Banco de Dados
+* Engenharia de Software
+* APIs REST
+* Versionamento com Git
+
+🎯 Objetivo
+
+Desenvolver soluções que unam tecnologia, organização e uma boa experiência para o usuário, enquanto construo um portfólio sólido para minha carreira na área de tecnologia.
+
+⭐ Obrigada por visitar meu perfil!
